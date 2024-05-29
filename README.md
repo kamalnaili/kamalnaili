@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kamalnaili
-- 👀 I’m interested in stringa art
+- 👀 I’m interested in string art
 
 
 <!---
